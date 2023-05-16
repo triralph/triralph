@@ -1,3 +1,3 @@
 ### Hi there 👋
-<img src="https://github.com/triralph/triralph/assets/9735379/56390529-86d3-43d0-8536-f031f066b5c4" alt="my banner">
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=triralph)](https://github.com/triralph)
 
