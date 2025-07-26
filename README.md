@@ -1,5 +1,10 @@
 ### Say Cheese 👋
 
+## Certifications
+
+*   AWS Certified SysOps Administrator - Associate
+*   AWS Certified Cloud Practitioner
+
 ```
 variable "location" {
   type = map(any)
@@ -9,12 +14,6 @@ variable "location" {
   }
 }
 ```
-## Certifications
-
-*   AWS Certified SysOps Administrator - Associate
-*   AWS Certified Cloud Practitioner
-
-
 ```
 variable "cloud_providers" {
   type = map(any)
