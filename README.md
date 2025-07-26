@@ -9,6 +9,12 @@ variable "location" {
   }
 }
 ```
+## Certifications
+
+*   AWS Certified SysOps Administrator - Associate
+*   AWS Certified Cloud Practitioner
+
+
 ```
 variable "cloud_providers" {
   type = map(any)
